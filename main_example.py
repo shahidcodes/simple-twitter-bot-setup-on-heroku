@@ -1,11 +1,10 @@
-try:
-  import tweepy
-  import logging
-  from time import sleep
-  import time
-  import os
-except BaseException as e:
-  print(e)
+
+import tweepy
+import logging
+from time import sleep
+import time
+import os
+
 
 logging.basicConfig()
 logger = logging.getLogger("BOT")
