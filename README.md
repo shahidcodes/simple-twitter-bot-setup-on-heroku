@@ -14,6 +14,8 @@ We're going to use heroku's worker dyno to acomplish this task. Although you can
 * see `main_example.py` for reference.
 * When all done means when you've your working bot locally. Run `pip freeze requirements.txt` in the bot directory.
 * And finally deploy and scale the worker dyno or run it.
+
+For instance you can put your Twitter App credentials in `main_example.py` and run it.
 # Quick Walkthrough
 
 ## Procfile
@@ -25,6 +27,9 @@ This is file created by pip when we run `pip freeze requirements.txt`. This is i
 
 ## Runtime (runtime.txt)
 If you're using python 2.7 then change runtime in this file. Available runtimes are listed [here](https://devcenter.heroku.com/articles/python-runtimes)
+
+## db.json
+This file is part of `main_example.py` to keep track of retweets/day. 
 
 # Me
 ### Twitter: [@sh4hidkh4n](https://twitter.com/sh4hidkh4n)
