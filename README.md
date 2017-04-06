@@ -32,7 +32,7 @@ If you're using python 2.7 then change runtime in this file. Available runtimes 
 This file is part of `main_example.py` to keep track of retweets/day. 
 
 # Further Ideas
-* You're not limited to just retweet bot. For example you can use filters to filter tweets by users or any other. 
+* You're not limited to just retweet bot. Read Tweepy [Docs](tweepy.readthedocs.io). For example you can use filters to filter tweets by users or any other. 
 * For Data Analysis people, you may want to use PGSQL provided by Heroku to store analysis data
 
 # Me
