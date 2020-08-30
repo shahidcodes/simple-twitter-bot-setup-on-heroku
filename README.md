@@ -36,4 +36,4 @@ This file is part of `main_example.py` to keep track of retweets/day.
 * For Data Analysis people, you may want to use PGSQL provided by Heroku to store analysis data
 
 # Me
-### Twitter: [@sh4hidkh4n](https://twitter.com/sh4hidkh4n)
+### Twitter: [@shahidcodes](https://twitter.com/shahidcodes)
